@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSecureCodeAlong", "SimpleSecureCodeAlong.csproj", "{B80770F8-2778-4D56-80D1-4CDACCED3CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B80770F8-2778-4D56-80D1-4CDACCED3CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80770F8-2778-4D56-80D1-4CDACCED3CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80770F8-2778-4D56-80D1-4CDACCED3CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80770F8-2778-4D56-80D1-4CDACCED3CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD426E9-7418-41D8-B4EB-F72B14FEC2CE}
+	EndGlobalSection
+EndGlobal
